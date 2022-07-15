@@ -1,0 +1,25 @@
+{
+  "name": "apisheet",
+  "version": "1.0.2",
+  "description": "Api Sheet for Google Sheets",
+  "keywords": [
+    "apisheet",
+    "api",
+    "sheet",
+    "spreadsheet",
+    "google",
+    "sheets",
+    "google-sheets",
+    "google-api-sheets"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ptndev",
+  "license": "ISC",
+  "dependencies": {
+    "@ptndev/json": "^1.0.1",
+    "axios": "^0.27.2"
+  }
+}
