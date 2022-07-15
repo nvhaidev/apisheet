@@ -3,6 +3,9 @@
   "version": "1.0.3",
   "description": "Api Sheet for Google Sheets",
   "homepage": "https://github.com/nvhaidev/apisheet",
+  "repository": {
+    "url": "https://github.com/nvhaidev/apisheet"
+  },
   "keywords": [
     "apisheet",
     "api",
