@@ -1,7 +1,8 @@
 {
   "name": "apisheet",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Api Sheet for Google Sheets",
+  "homepage": "https://github.com/nvhaidev/apisheet",
   "keywords": [
     "apisheet",
     "api",
